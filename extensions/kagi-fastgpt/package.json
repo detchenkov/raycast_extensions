@@ -4,6 +4,7 @@
   "title": "Kagi FastGPT",
   "description": "Ask questions to Kagi's FastGPT AI engine.",
   "icon": "command-icon.png",
+  "platforms": ["macOS", "Windows"],
   "author": "http.james",
   "categories": [
     "Productivity"

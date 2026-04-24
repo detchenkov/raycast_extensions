@@ -7,3 +7,7 @@
 ## [Bug fixes] - 2023-06-28
 
 - Adds non-200 HTTP status code error handling
+
+## [Windows version] - {PR_MERGE_DATE}
+
+- Added Windows as target platform
